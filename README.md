@@ -80,8 +80,8 @@ Follow these steps to create an OAuth Client ID for accessing the Google Sheets 
 
 ## How to use this app:
 
-1. From the tasklist select **Board** in order to view the board page.
-2. From the tasklist select **Google Sheet Update**
+1. From the **Task List** select **Board** in order to view the board page.
+2. From the **Task List** select **Google Sheet Update**
 3. Obtain the client ID from the Google Cloud Console.
 4. Paste the client ID and log in using your Google account.
 5. Create the shared link the of the google sheet with **editor** mode.
