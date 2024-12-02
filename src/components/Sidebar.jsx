@@ -5,12 +5,12 @@ const Sidebar = () => {
   const location = useLocation();
   const nav = [
     { name: "Board", link: "/board" },
-    { name: "Google sheet", link: "/google-sheet-table" },
+    { name: "Google Sheet Update", link: "/google-sheet-table" },
   ];
   return (
     <div className="border-r  py-10 h-full">
       <h1 className="text-xl px-8 font-bold uppercase tracking-tighter">
-        G-Sheet
+        Task Lists
       </h1>
       <div className="flex flex-col mt-4 px-2">
         {nav.map((item) => (
