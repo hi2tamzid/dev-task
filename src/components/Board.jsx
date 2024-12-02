@@ -142,8 +142,8 @@ const Board = () => {
   };
 
   return (
-    <div class="px-[40px] py-[20px] bg-[#e5e5e5]">
-      <p class="text-[10px]">Board</p>
+    <div className="px-[40px] py-[20px] bg-[#e5e5e5]">
+      <p className="text-[10px]">Board</p>
       <div
         id="board"
         className="relative w-full h-[calc(100vh-60px)] bg-gray-100"
