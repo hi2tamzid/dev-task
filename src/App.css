@@ -1,0 +1,4 @@
+.container {
+  max-width: min(1280px, 90vw);
+  margin: 0 auto;
+}
