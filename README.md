@@ -1,4 +1,4 @@
-# Google Sheet
+# Dev Task
 
 This guide walks you through setting up this repo.
 To set up the project, follow these steps:
@@ -84,4 +84,6 @@ Follow these steps to create an OAuth Client ID for accessing the Google Sheets 
 2. From the tasklist select **Google Sheet Update**
 3. Obtain the client ID from the Google Cloud Console.
 4. Paste the client ID and log in using your Google account.
-5. Once logged in, you can use the app to create, read, update, and delete data in your Google Sheets.
+5. Create the shared link the of the google sheet with **editor** mode.
+6. Paste it in the **Sheet Url** and press get data button.
+7. Now, you can use the app to create, read, update, and delete data in your Google Sheets.
